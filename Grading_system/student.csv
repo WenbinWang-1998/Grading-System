@@ -1,0 +1,27 @@
+student,"student,name","student,email",student.buID,student.isWidthdrawn
+,CJ,cj@bu.edu,U09,0
+,David Liu,david@bu.edu,U10,0
+,Jersy,jersey@bu.edu,U11,0
+,Jay,jay@bu.edu,U12,0
+Enrollment,Enrollment.studenId,Enrollment.courseId,,
+,9,3,,
+,9,3,,
+,9,3,,
+,9,3,,
+grade,grade.subTaskId,grade.studentId,grade.score,
+,7,9,86,
+,8,9,100,
+,9,9,98,
+,14,9,83,
+,7,9,98,
+,8,9,95,
+,9,9,100,
+,14,9,88,
+,7,9,89,
+,8,9,100,
+,9,9,98,
+,14,9,100,
+,7,9,99,
+,8,9,99,
+,9,9,85,
+,14,9,90,
